@@ -27,3 +27,15 @@ The script publishes geometry_msgs/Twist velocity messages to the /turtle1/cmd_v
 
 https://github.com/user-attachments/assets/c81d5f3d-4711-4b0c-a732-dad90c8df357
 
+---
+
+## Task 5: ROS Publisher and Subscriber
+
+This section demonstrates a custom ROS Publisher and Subscriber setup where messages are transmitted and received across nodes.
+
+### **Scripts**
+* `my_publisher.py`: Publishes custom messages to the `custom_chatter` topic.
+* `my_subscriber.py`: Listens to the `custom_chatter` topic and prints received messages.
+
+### **Execution Output**
+![Publisher and Subscriber Output](<img width="1440" height="900" alt="‏لقطة الشاشة 2026-08-06 في 12 53 45 ص" src="https://github.com/user-attachments/assets/e1531ac0-a85e-42de-9080-a058e051eca9" />)
