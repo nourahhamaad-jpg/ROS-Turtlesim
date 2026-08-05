@@ -38,4 +38,5 @@ This section demonstrates a custom ROS Publisher and Subscriber setup where mess
 * `my_subscriber.py`: Listens to the `custom_chatter` topic and prints received messages.
 
 ### **Execution Output**
-![Publisher and Subscriber Output](<img width="1440" height="900" alt="‏لقطة الشاشة 2026-08-06 في 12 53 45 ص" src="https://github.com/user-attachments/assets/e1531ac0-a85e-42de-9080-a058e051eca9" />)
+![Publisher and Subscriber Output](<img width="1440" height="900" alt="output" src="https://github.com/user-attachments/assets/01e30924-1b88-4f3b-be0d-d60b81dda58f" />
+)
